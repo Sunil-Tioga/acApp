@@ -1,0 +1,1 @@
+{"ip":"204.246.167.63","hostname":"server-204-246-167-63.jfk1.r.cloudfront.net","ports":[{"port":"513","state":"open","protocol":"tcp","owner":"","service":"login","rpc":"","version":""},{"port":"514","state":"open","protocol":"tcp","owner":"","service":"shell","rpc":"","version":""}]}

@@ -1,0 +1,14 @@
+<div>
+	<h3>Details for {{scan.ip}}</h3>
+	<p><b>IPv4/IPv6:</b> {{scan.ip}}</p>
+	<p><b>Hostname:</b> {{scan.hostname}}</p>
+	<ul ng-repeat="port in scan.ports">
+		<li><b>Port number:</b> {{port.port}}
+			<ul>
+				<li><b>Status: </b>{{port.state}}</li>
+				<li><b>Protocol: </b>{{port.protocol}}</li>
+				
+			</ul>
+		</li>
+	</ul>
+</div>

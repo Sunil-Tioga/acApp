@@ -1,0 +1,1 @@
+{"ip":"155.97.17.166","hostname":"tyr.scl.utah.edu","ports":[{"port":"513","state":"open","protocol":"tcp","owner":"","service":"login","rpc":"","version":""},{"port":"514","state":"open","protocol":"tcp","owner":"","service":"shell","rpc":"","version":""}]}

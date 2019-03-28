@@ -1,0 +1,1 @@
+{"ip":"192.168.2.3","ports":[{"port":"139","state":"open","protocol":"tcp","owner":"","service":"netbios","rpc":"","version":""},{"port":"445","state":"open","protocol":"tcp","owner":"","service":"microsoft-ds","rpc":"","version":""}]}

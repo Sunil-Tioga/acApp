@@ -1,0 +1,1 @@
+{"ip":"155.97.52.9","ports":[{"port":"513","state":"open","protocol":"tcp","owner":"","service":"login","rpc":"","version":""},{"port":"514","state":"open","protocol":"tcp","owner":"","service":"shell","rpc":"","version":""}]}
